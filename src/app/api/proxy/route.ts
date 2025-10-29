@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 
 export async function GET() {
   try {
-    const response = await fetch('https://stats.uptimerobot.com/uUEoseYylg', {
+    const response = await fetch('https://uptime-kuma-d5ko.onrender.com/dashboard', {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
       },
