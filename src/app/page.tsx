@@ -9,7 +9,7 @@ export default function Home() {
         margin: 0,
         padding: 0,
       }}
-      title="UptimeRobot Status"
+      title="Status Dashboard - HPCCSS"
     />
   );
 }
